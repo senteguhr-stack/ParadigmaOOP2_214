@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class remote.ampu {
+class remotelampu {
 private:
     string saklarno[5];
 public:
